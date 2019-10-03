@@ -1,7 +1,7 @@
 #All Correct
 #Link to the problem :- https://www.codechef.com/MAY19B/problems/REDONE
 
-
+T = int(input())
 res=[0]*10000001
 def fact(n):
     if res[n]!=0:
