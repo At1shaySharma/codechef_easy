@@ -1,3 +1,5 @@
+#Partial Solution
+#Link to the problem :- https://www.codechef.com/MAY19B/problems/REDONE
 for _ in range(int(input())):
     N = int(input())
     L = [1]
